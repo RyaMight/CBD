@@ -46,7 +46,7 @@ ITEMS = {
 }
 
 HERO_IMAGE = 'https://azurlane.netojuu.com/images/a/a9/Shinano.png'
-HERO_TITLE = 'Azur Lane Preorder Desk'
+HERO_TITLE = 'Azurlane'
 HERO_COPY = 'Browse featured shipgirl releases, check out as a guest, and bring your sealed order confirmation to the preorder desk. Shinano remains locked behind the premium lottery queue.'
 HERO_BADGE = 'Guest checkout · Standard shipping · Encrypted orders'
 HERO_FEATURE = 'Featured drop · Shinano'
